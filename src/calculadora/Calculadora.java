@@ -19,6 +19,7 @@ public class Calculadora {
         int number2 = 2;
         int result = number1 + number2;
         //Comentario
+        //Comentario2
     }
     
 }
